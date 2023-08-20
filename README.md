@@ -1,4 +1,4 @@
-"# Turbinedisk_ThermoMechanical" 
+#Turbinedisk_ThermoMechanical
 1. Entire thermomechanical simulation converted into a Python compiler
 2. This code will import the .stp file and define the design variables on it
 3. In the current project, I have solved four different load cases as **Mechanical, Thermal_displacement, Thermal load, and Thermal load and fixed constrain load cases**.
