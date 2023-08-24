@@ -6,7 +6,19 @@
 5. Using **runscript** option in the ABAQUS software, we can run the code. It will load the design variable and material properties from the Excel sheet and simulate all 100 simulations.
 6. Responses of simulation such as **Von Mises stress, displacement, hoop stress, thermal flux, and Longitudinal stress** are saved in the new Excel sheet.
 
-![image](https://github.com/KannanS397/Turbinedisk_ThermoMechanical/assets/140952087/f376252f-4f9a-4e13-becf-5a805a5dda01)
+
 <p align="center">
-Figure: VonMises stress of the turbine disk
+ <img src="https://github.com/KannanS397/Turbinedisk_ThermoMechanical/assets/140952087/349819be-9737-459c-b633-7b1a5626f12f" alt="alt text" width="550" height="300">
+</p>
+ 
+<p align="center">
+Figure 1: Design variables
+</p>
+
+
+<p align="center">
+<img src="https://github.com/KannanS397/Turbinedisk_ThermoMechanical/assets/140952087/f376252f-4f9a-4e13-becf-5a805a5dda01" alt="alt text" width="500" height="300">
+</p>
+<p align="center">
+Figure 2: VonMises stress of the turbine disk
 </p>
